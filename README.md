@@ -1,1 +1,1 @@
-# tyrn-bot
+# tyrnty
